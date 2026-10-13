@@ -24,4 +24,6 @@ Abrí un [Issue](https://github.com/jonasrodriguezdb-png/VitaCraft/issues) con e
 
 El ejecutable deriva de [OptiCraft-Vita de DrDecki](https://github.com/DrDecki/OptiCraft-Vita) y se distribuye bajo GPLv2. Consultá [LICENSE](LICENSE) y la [oferta de código fuente](SOURCE-OFFER.md). Este repositorio publica archivos de prueba y documentación; el código correspondiente está disponible mediante solicitud según esa oferta.
 
+Los archivos automáticos **Source code (zip/tar.gz)** de GitHub solo contienen esta documentación. Para recibir el código completo de la versión 01.02, seguí la oferta escrita.
+
 VitaCraft no está afiliado a Mojang Studios, Microsoft ni Sony.
