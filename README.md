@@ -16,4 +16,5 @@ Descargá `Minecraft.vpk` desde la sección [Releases](https://github.com/jonasr
 
 Los mods Java, incluido OptiFine, no funcionan en esta versión C++. Los paquetes `.ochpack` reconocidos van en `ux0:data/vitacraft/.minecraft/mods/`.
 
-
+Discord: 
+https://discord.gg/Qh72uKPeB
