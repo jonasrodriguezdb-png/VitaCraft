@@ -1,4 +1,4 @@
-# VitaCraft para PS Vita — versión de prueba 01.02
+# VitaCraft para PS Vita — versión de prueba 01.21
 
 VitaCraft es una adaptación no oficial en C++ de un juego de bloques clásico para PS Vita. Esta versión para testers incluye controles de Vita, guía de botones, contador de FPS y efectos de sonido. Fue probada en una consola real; puede presentar errores gráficos o cierres.
 
